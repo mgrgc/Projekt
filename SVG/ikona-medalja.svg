@@ -1,0 +1,15 @@
+<svg viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-750.000000, -4947.000000)">
+            <g transform="translate(750.000000, 4947.000000)">
+                <circle stroke="#000000" stroke-width="2" cx="51" cy="51" r="50"></circle>
+                <g transform="translate(14.806452, 14.806452)">
+                    <polygon points="0 0 72.3870968 0 72.3870968 72.3870968 0 72.3870968"></polygon>
+                    <circle stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="36.1935484" cy="27.1451613" r="18.0967742"></circle>
+                    <polyline stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(49.162903, 49.608743) rotate(-30.000000) translate(-49.162903, -49.608743) " points="40.1145161 39.3539041 40.1145161 59.8635815 49.1629032 53.8313235 58.2112903 59.8635815 58.2112903 39.3539041"></polyline>
+                    <polyline stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(23.224194, 49.608743) rotate(30.000000) translate(-23.224194, -49.608743) " points="14.1758065 39.3539041 14.1758065 59.8635815 23.2241935 53.8313235 32.2725806 59.8635815 32.2725806 39.3539041"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
